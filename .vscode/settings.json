@@ -1,0 +1,10 @@
+{
+    "Lua.diagnostics.globals": [
+        "PanelTemplates_TabResize",
+        "ALL",
+        "PanelTemplates_SelectTab",
+        "PanelTemplates_DeselectTab",
+        "UISpecialFrames",
+        "GameTooltip"
+    ]
+}
